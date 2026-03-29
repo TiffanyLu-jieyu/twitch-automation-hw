@@ -30,7 +30,7 @@ A basic user flow:
 │ ├── search_page.py
 │ └── streamer_page.py
 ├── tests/
-│ └── test_123.py
+│ └── test_twitch.py
 ├── screenshots/
 ├── conftest.py
 ├── pytest.ini
