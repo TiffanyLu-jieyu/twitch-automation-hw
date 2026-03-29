@@ -22,6 +22,7 @@ A basic user flow:
 ---
 
 ## Project Structure
+```bash
 .
 ├── pages/
 │ ├── base_page.py
@@ -35,7 +36,7 @@ A basic user flow:
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
